@@ -3,6 +3,7 @@
     <option name="customScope" value="File '.../src/AppBundle/Service/DittoApi.php - [Specsavers App]'" />
     <option name="defaultScopeName" value="File '.../src/AppBundle/Service/DittoApi.php - [Specsavers App]'" />
     <option name="SEARCH_SCOPE" value="File '.../src/AppBundle/Service/DittoApi.php - [Specsavers App]'" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,9 +14,9 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
