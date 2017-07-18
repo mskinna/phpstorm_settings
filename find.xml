@@ -16,9 +16,10 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
+      <mask>*.php</mask>
+      <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
