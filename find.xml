@@ -7,13 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.SC</mask>
       <mask>*.SCS</mask>
@@ -27,12 +20,19 @@
       <mask>*.l</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*.php</mask>
       <mask>*.s</mask>
+      <mask>*.notifi</mask>
+      <mask>*.notif</mask>
+      <mask>*.noti</mask>
+      <mask>*.not</mask>
+      <mask>*.no</mask>
+      <mask>*.n</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
+      <mask>*.scsss</mask>
       <mask>*.scss</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
