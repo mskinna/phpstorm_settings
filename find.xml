@@ -5,38 +5,38 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.SC</mask>
-      <mask>*.SCS</mask>
-      <mask>*.SCSS</mask>
       <mask>*..php</mask>
       <mask>*..</mask>
       <mask>*..scs</mask>
       <mask>*..scss</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.j</mask>
-      <mask>*.s</mask>
       <mask>*.notifi</mask>
       <mask>*.notif</mask>
       <mask>*.noti</mask>
       <mask>*.not</mask>
       <mask>*.no</mask>
       <mask>*.n</mask>
-      <mask>*</mask>
       <mask>*.scsss</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*</mask>
+      <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.;ess</mask>
+      <mask>*.;es</mask>
+      <mask>*.;e</mask>
+      <mask>*.;</mask>
+      <mask>*.</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
