@@ -1,0 +1,48 @@
+<application>
+  <component name="libraryTable">
+    <library name="leaflet" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_leaflet@1.2.0_dist_leaflet.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_leaflet@1.2.0_dist_leaflet.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="leaflet-google" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_matchingnotes.com_javascripts_leaflet-google.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_matchingnotes.com_javascripts_leaflet-google.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="proj4" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_proj4js_2.4.4_proj4.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_proj4js_2.4.4_proj4.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="turf" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox.js_plugins_turf_v2.0.2_turf.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.mapbox.com_mapbox.js_plugins_turf_v2.0.2_turf.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
