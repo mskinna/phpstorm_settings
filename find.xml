@@ -24,16 +24,16 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.jsx</mask>
-      <mask>*.php</mask>
       <mask>*.hs</mask>
       <mask>*.h</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>*sc</mask>
       <mask>*s</mask>
       <mask>*s.scss</mask>
       <mask>*.scss</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
