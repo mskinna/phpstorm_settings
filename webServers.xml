@@ -4,6 +4,9 @@
       <webServer id="f454d47c-0a89-437f-8450-90241bb03e4c" name="Specsavers Localhost" url="https://specs.local/app_dev.php/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="eef860a3-1444-4422-bc8b-e1f989cff782" name="5-fords" url="http://www.5-fords.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
