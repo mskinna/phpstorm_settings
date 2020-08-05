@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="newDocumentForm" type="JavaScript" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="dist" type="YAML" />
