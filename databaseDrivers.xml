@@ -38,7 +38,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
-      <artifact name="PostgreSQL" />
+      <artifact name="PostgreSQL" use="true" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
     </driver>
